@@ -8,6 +8,7 @@ Auto-prompter is a Python-based project designed to streamline and automate the 
 
 - **Dynamic Prompt Generation**: Automatically creates prompts tailored to specific use cases and inputs.
 - **Optimization Techniques**: Includes methods to refine and adjust prompts for maximum effectiveness.
+- **Keyboard Shortcuts**: Provides convenient hotkeys (Ctrl+Shift+A) for processing clipboard text quickly without interrupting workflow.
 - **Modular and Scalable**: Designed to integrate seamlessly into existing workflows with high customizability.
 - **Python-Based**: Leverages Python's simplicity and versatility to provide an accessible development experience.
 
