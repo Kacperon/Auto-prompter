@@ -1,0 +1,1 @@
+Uzupełnij poniższy kod o brakujące instrukcje. Nie zmieniaj struktury ani logiki programu. Zwróć tylko gotowy kod z uzupełnieniami:
